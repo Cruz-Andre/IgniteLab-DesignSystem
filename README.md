@@ -2,14 +2,14 @@
 <h3 align="center">Projeto desenvolvido durante o Ignite Lab 03 da RocketSeat</h3>
 
 Projeto usando:
-- Figma,
-- ViteJS,
-- Typescript,
-- React,
-- StoryBook,
-- Radix UI,
-- Phosphor-React, 
-- TailwindCSS,
+- Figma;
+- ViteJS;
+- Typescript;
+- React;
+- StoryBook;
+- Radix UI;
+- Phosphor-React;
+- TailwindCSS;
 - clsx.
 
 
