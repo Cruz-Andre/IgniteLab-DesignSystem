@@ -12,7 +12,8 @@ Projeto usando:
 - TailwindCSS;
 - clsx.
 
+Design no Figma: https://www.figma.com/file/TeiYgSUJGQXt9gLFPNN4gd/Ignite-Lab-Design-System?node-id=0%3A1
 
 Storybook no github pages: https://cruz-andre.github.io/IgniteLab-DesignSystem/
 
-Site montado (pagina de login) no Vercel: https://rocketseat-ignitelab-03-pagina-login.vercel.app/
+Site montado (umna pagina de login) no Vercel: https://rocketseat-ignitelab-03-pagina-login.vercel.app/
