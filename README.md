@@ -1,8 +1,12 @@
 <h1 align="center">Ignite Lab - Design System</h1>
 <h3 align="center">Projeto desenvolvido durante o Ignite Lab 03 da RocketSeat</h3>
+<h3>Parte 1: Criar a base visual do Design System no Figma, definir quais tokens utilizar e os componentes que farão parte da biblioteca em React</h3>
+<h3>Parte 2: Exportar os tokens e componentes do Figma para o código criando a base do projeto em React e a documentação utilizando Storybook.</h3>
+<h3>Parte 3: Montar a pagina de login e automatizar o processo de deploy.</h3>
+<h3>Parte 4: Criar testes automatizados para o Design System e simular interações do usuário.</h3>
 
 Projeto usando:
-- Figma;
+- Figma 
 - ViteJS;
 - Typescript;
 - React;
