@@ -20,4 +20,4 @@ Design no Figma: https://www.figma.com/file/TeiYgSUJGQXt9gLFPNN4gd/Ignite-Lab-De
 
 Storybook no github pages: https://cruz-andre.github.io/IgniteLab-DesignSystem/
 
-Site montado (uma pagina de login) no Vercel: https://rocketseat-ignitelab-03-pagina-login.vercel.app/
+Site montado (uma pagina de login) no Vercel: em breve...
