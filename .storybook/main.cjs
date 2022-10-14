@@ -14,8 +14,14 @@ module.exports = {
     "builder": "@storybook/builder-vite"
   },
   "features": {
-    "storyStoreV7": true
+    "storyStoreV7": true,
+    "interactionsDebugger": true
   },
+
+  "staticDirs": [
+    "../public"
+  ],
+
   viteFinal: (config, {configType}) => {
     if (configType === 'PRODUCTION') {
       config.base = 'IgniteLab-DesignSystem'
