@@ -17,7 +17,7 @@ export function SignIn() {
         event.preventDefault()
 
         //simulando uma rota
-        await axios.post('/sessions', {
+        await axios.post('/IgniteLab-DesignSystem/?path=/story/pages-sign-in--default', {
             email: 'andre@arpanet.com',
             password: '1234567890'
         })
