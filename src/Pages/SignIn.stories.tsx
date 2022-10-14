@@ -30,6 +30,8 @@ export const Default: StoryObj = {
         userEvent.type(canvas.getByPlaceholderText('Digite seu e-mail'), 'andre@arpanet.com')
         userEvent.type(canvas.getByPlaceholderText('*********'), '1234567890')
 
+        userEvent.click(canvas.getByRole('checkbox'))
+
         userEvent.click(canvas.getByRole('button'))
 
         await waitFor(() => {

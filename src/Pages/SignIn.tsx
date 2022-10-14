@@ -1,7 +1,7 @@
-import { Checkbox } from "@radix-ui/react-checkbox";
 import { FormEvent, useState } from "react";
 import axios from "axios";
 import { Envelope, Lock } from "phosphor-react";
+import { Checkbox } from "../components/Checkbox";
 import { Button } from "../components/Button";
 import { Heading } from "../components/Heading";
 import { TextInput } from "../components/TextInput";
