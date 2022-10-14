@@ -12,7 +12,7 @@ export default {
     parameters: {
         msw: {
             handlers: [
-                rest.post('/IgniteLab-DesignSystem/?path=/story/pages-sign-in--default', (req, res, ctx) => {
+                rest.post('/', (req, res, ctx) => {
                     return res(ctx.json({
                         message: 'Login realizado!'
                     }))
